@@ -1,0 +1,44 @@
+
+
+
+
+
+body {
+  background-color: #25292e;
+}
+
+table {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+}
+
+caption {
+  border-width: 1px;
+  border-style: solid;
+  border-color: blue;
+  color: #ffffff;
+}
+
+th {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+  color: #ffffff;
+}
+
+td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+  color: #ffffff;
+  text-align: center;
+}
+
+p {
+  color: #ffffff;
+}
+
+
+
+
